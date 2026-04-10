@@ -48,3 +48,10 @@ ollama下载及其应用
 https://www.bilibili.com/video/BV1bnwJztEP7?spm_id_from=333.788.videopod.episodes&vd_source=9757907c3cf802d911a9ffa19fb979e0&p=4
 
 预计明天目标为训练语音模型
+
+4月10日
+有几天没写了，主要是有点受打击，游戏本根本带不动全量语音训练，cosyvoice3炸了3次显存，一次磁盘（用的wsl2）。基本没法用这个了，要么妥协一下，用GSV2，效果都打不到接近真人的水平，就目前这个硬件水平，也不太能做到就是了。然后学习了一下ESP32的使用，具体也就到I2S和STA链接。
+ESP32的学习资源
+https://www.bilibili.com/video/BV1xv4yzHEhM/?p=3&vd_source=9757907c3cf802d911a9ffa19fb979e0
+未来打算用云电脑或者服务器来训练AI语音，不过也是后话了，先完成个大体架构和流程再说了。
+
